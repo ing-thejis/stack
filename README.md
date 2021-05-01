@@ -1,5 +1,5 @@
 # stack
-Implementing tiny library of stack with >[golang](https://golang.org/)
+Implementing tiny library of stack with [golang](https://golang.org/)
 
 ## Definition
 Una pila ([stack](https://es.wikipedia.org/wiki/Pila_(inform%C3%A1tica))) es una colección ordenada de elementos a los que sólo se puede acceder por un único lugar o extremo, llamado cima o tope de la pila. Las pilas son conocidas como estructuras de datos LIFO (last-in, first-out).
