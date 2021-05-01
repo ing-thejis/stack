@@ -1,2 +1,2 @@
 # stack
-implementing tiny library stack with golang
+implementing tiny library of stack with golang
